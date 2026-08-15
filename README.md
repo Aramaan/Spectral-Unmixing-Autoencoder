@@ -1,7 +1,7 @@
 # Spectral-Unmixing-Autoencoder
 Spectral Unmixing for Photoacoustic Imaging of Deep  Tissue Structures using Deep  Learning Approach
 
-# Abstract
+## Abstract
 Imaging the spatial distribution of oxygenation in tissue is critical for numerous biomed-
 ical applications, yet remains challenging particularly for deep tissue measurements. In 
 photoacoustic imaging, accurate spectral unmixing of multispectral data is essential for 
